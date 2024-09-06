@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Artur welcome to my github
+## Hi there 👋 my name is Artur i`m Frontend-developer
 
 
 
