@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Artur i`m Frontend-developer
 
-
+<img src="./gif.gif" width="980" height="280"/>
 
 languages ​​and tools
 
